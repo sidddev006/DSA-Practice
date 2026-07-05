@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void movezero(vector<int>& arr){
+void leftrotate(vector<int>& arr){
     int n = arr.size();
     int temp = arr[0];
     for(int i = 1;i<n;i++){
@@ -15,6 +15,6 @@ int main(){
     cin>>n;
     vector<int> arr(n);
     for(int i = 0;i<n;i++) cin>>arr[i];
-    movezero(arr);
+    leftrotate(arr);
     for(int i = 0;i<n;i++) cout<<arr[i]<<" ";
 }
