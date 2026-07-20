@@ -8,3 +8,4 @@ My DSA practice files in C++ following Striver's DSA sheet.
 - Recursion
 - Hashing
 - Patterns
+- Binary Search
