@@ -38,5 +38,5 @@ int main(){
     for(int i = 0;i<n;i++) cin>>arr[i];
     int target;
     cin>>target;
-    cout<<"The total number of occurences of "<<target<<" in the array is "<<last(arr, target) - first(arr, target);
+    cout<<"The total number of occurences of "<<target<<" in the array is "<<(last(arr, target) - first(arr, target)) + 1;
 }
