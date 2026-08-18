@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/siddd/dsa1/recursion",
-      "program": "c:/Users/siddd/dsa1/recursion/build/Debug/outDebug",
+      "cwd": "c:/Users/siddd/dsa1/binary_search",
+      "program": "c:/Users/siddd/dsa1/binary_search/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
